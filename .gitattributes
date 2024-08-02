@@ -1,3 +1,2 @@
 *.h5 filter=lfs diff=lfs merge=lfs -text
 cosine.py filter=lfs diff=lfs merge=lfs -text
-webscraper.py filter=lfs diff=lfs merge=lfs -text
